@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chat_mode">
+        <item>聊天室</item>
+        <item>私聊</item>
+    </string-array>
+</resources>
